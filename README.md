@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD032 MD033-->
-# 🔥 **Josee9988's GitHub Project Template**
+#  **Beep Boop Co.**
 
 <p align="center">
   <a href="https://github.com/Josee9988/project-template/generate">
@@ -141,17 +141,6 @@ Files that will get removed after the execution of `SETUP_TEMPLATE.sh` are not s
   2. Right-click on the git repository folder and click "*git bash here*".
   3. Then just perform *`bash SETUP_TEMPLATE.sh`* **or** *`chmod u+x SETUP_TEMPLATE.sh && ./SETUP_TEMPLATE.sh`*.
 
-### 🤖 **Used GitHub bots**
-
-These are recommended bots that are prepared and configured for this template. If you install them, your coding experience will probably be much better.
-We sincerely recommend at least installing the [issue label bot](https://github.com/marketplace/issue-label-bot) as this bot is the one that adds all the labels used in the issue templates.
-
-1. The `issue_label_bot.yaml` file depends on the **[issue label bot](https://github.com/marketplace/issue-label-bot)** (✓ highly recommended).
-2. The `settings.yml` file depends on the **[settings label bot](https://probot.github.io/apps/settings/)** (optional).
-3. The `config.yml` file depends on the bot **[welcome bot](https://probot.github.io/apps/welcome/)** and **[to-do bot](https://probot.github.io/apps/todo/)** (optional).
-
----
-
 ## 📸 **Screenshots**
 
 A couple of screenshots to delight you before you use this template.
@@ -208,40 +197,9 @@ If the bot [probot-settings](https://probot.github.io/apps/settings/) is not ins
 
 ---
 
-## 🕵️ **Extra recommendations**
 
-For the proper maintenance of the CHANGELOG.md, we recommend this [VSCode extension](https://github.com/Josee9988/Changelog-and-Markdown-snippets)
-and the read and understanding of the [keep a changelog guide](https://keepachangelog.com/en/1.0.0/).
-Please read and comment about it in this [dev.to post](https://dev.to/josee9988/the-ultimate-github-project-template-1264).
-We also recommend installing all the [used bots](https://github.com/Josee9988/project-template#-used-github-bots).
 
-## 💉 **Project tests**
 
-If you want to improve the development of this project, you must, after changing or improving whatever, run the project's tests to prove that they are working.
-
-To do so:
-
-```bash
-bash tests/TESTS_RUNNER.sh
-```
-
----
-
-## 🍰 **Supporters and donators**
-
-<a href="https://github.com/Josee9988/project-template/generate">
-  <img alt="@Josee9988/project-template's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
-</a>
-
-We are currently looking for new donators to help and maintain this project! ❤️
-
-By donating, you will help the development of this project, and *you will be featured in this project's README.md*, so everyone can see your kindness and visit your content ⭐.
-
-<a href="https://github.com/sponsors/Josee9988">
-  <img alt="project logo" src="https://img.shields.io/badge/Sponsor-Josee9988/project template-blue?logo=github-sponsors&style=for-the-badge&color=red">
-</a>
-
----
 
 ## 🎉 Was the template helpful? Please help us raise these numbers up
 
